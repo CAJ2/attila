@@ -34,3 +34,15 @@
   font-weight: 700;
   src: local('Fira Sans Bold'), local('FiraSans-Bold'), url('//fonts.gstatic.com/s/firasans/v5/DugPdSljmOTocZOR2CItOhampu5_7CjHW5spxoeN3Vs.woff2') format('woff2'), url('//fonts.gstatic.com/s/firasans/v5/DugPdSljmOTocZOR2CItOqRDOzjiPcYnFooOUGCOsRk.woff') format('woff');
 }
+
+@font-face {
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Lato'), url('//fonts.googleapis.com/css?family=Lato');
+}
+
+@font-face {
+  font-family: 'Roboto';
+  src: local('Roboto'), url('//fonts.googleapis.com/css?family=Roboto');
+}
